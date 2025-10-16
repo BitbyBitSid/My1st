@@ -1,2 +1,4 @@
-# My1st
-Sum of n digits
+
+Simple code to calculate the sum of n digits of any integer 
+ 
+
